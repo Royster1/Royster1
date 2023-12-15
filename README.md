@@ -1,5 +1,5 @@
 ### 不想学习🤣🤣
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mq-b&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royster1&show_icons=true&theme=radical)
 
 <div id="img" align=center>
   
